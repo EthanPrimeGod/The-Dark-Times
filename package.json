@@ -9,6 +9,6 @@
     "serpapi": "^2.0.0"
   },
   "scripts": {
-    "start": "node script.js"
+    "start": "script.js"
   }
 }
